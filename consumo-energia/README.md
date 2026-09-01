@@ -20,4 +20,4 @@ Projeto em Python desenvolvido para calcular o consumo elétrico mensal (em kWh)
 
 1. **Clone este repositório:**
    ```Terminal
-   git clone [https://github.com/FuzziReturn/consumo-energia.git](https://github.com/FuzziReturn/consumo-energia.git)
+  [https://github.com/FuzziReturn/projetos/tree/main/consumo-energia]
